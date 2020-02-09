@@ -1,4 +1,4 @@
-package com.fork.baeldung.entity;
+package com.baeldung.persistence.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

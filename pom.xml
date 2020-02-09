@@ -8,7 +8,7 @@
 		<version>2.2.4.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.fork.baeldung</groupId>
+	<groupId>com.baeldung</groupId>
 	<artifactId>bootstrap-simple-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>bootstrap-simple-app</name>

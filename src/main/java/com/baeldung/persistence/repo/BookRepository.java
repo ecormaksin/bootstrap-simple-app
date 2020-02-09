@@ -1,10 +1,10 @@
-package com.fork.baeldung.repository;
+package com.baeldung.persistence.repo;
 
 import java.util.List;
 
 import org.springframework.data.repository.CrudRepository;
 
-import com.fork.baeldung.entity.Book;
+import com.baeldung.persistence.model.Book;
 
 public interface BookRepository extends CrudRepository<Book, Long> {
 	List<Book> findByTitle(String title);

@@ -1,4 +1,4 @@
-package com.fork.baeldung.controller;
+package com.baeldung.controller;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Controller;
